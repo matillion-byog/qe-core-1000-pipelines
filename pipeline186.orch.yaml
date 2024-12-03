@@ -74,5 +74,5 @@ design:
     Python Pushdown:
       position:
         x: 120
-        "y": 0
+        "y": 20
       tempMetlId: 2
